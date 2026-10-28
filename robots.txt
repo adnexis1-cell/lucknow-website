@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lucknow.qubeetechsystems.in/sitemap.xml
